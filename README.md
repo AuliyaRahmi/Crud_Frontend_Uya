@@ -13,6 +13,7 @@ Action React
 - Read
 
 Cara jalankan React 
+- npm install (mendapatkan folder node_modules)
 - npm start
 - http://localhost:3000/
 
